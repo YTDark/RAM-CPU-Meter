@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "cpuAndramMeter", "cpuAndramMeter\cpuAndramMeter.vbproj", "{BB22ED90-E5D8-4A85-9090-157973075A5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB22ED90-E5D8-4A85-9090-157973075A5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB22ED90-E5D8-4A85-9090-157973075A5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB22ED90-E5D8-4A85-9090-157973075A5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB22ED90-E5D8-4A85-9090-157973075A5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4191B0D-BA04-4475-990F-06847A6A175D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\janno\Documents\Visual Studio 2008\Projects\cpuAndramMeter\cpuAndramMeter\bin\Debug\cpuAndramMeter.exe
+C:\Users\janno\Documents\Visual Studio 2008\Projects\cpuAndramMeter\cpuAndramMeter\bin\Debug\cpuAndramMeter.pdb
+C:\Users\janno\Documents\Visual Studio 2008\Projects\cpuAndramMeter\cpuAndramMeter\bin\Debug\cpuAndramMeter.xml
+C:\Users\janno\Documents\Visual Studio 2008\Projects\cpuAndramMeter\cpuAndramMeter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\janno\Documents\Visual Studio 2008\Projects\cpuAndramMeter\cpuAndramMeter\obj\Debug\cpuAndramMeter.Form1.resources
+C:\Users\janno\Documents\Visual Studio 2008\Projects\cpuAndramMeter\cpuAndramMeter\obj\Debug\cpuAndramMeter.Resources.resources
+C:\Users\janno\Documents\Visual Studio 2008\Projects\cpuAndramMeter\cpuAndramMeter\obj\Debug\cpuAndramMeter.vbproj.GenerateResource.Cache
+C:\Users\janno\Documents\Visual Studio 2008\Projects\cpuAndramMeter\cpuAndramMeter\obj\Debug\cpuAndramMeter.exe
+C:\Users\janno\Documents\Visual Studio 2008\Projects\cpuAndramMeter\cpuAndramMeter\obj\Debug\cpuAndramMeter.xml
+C:\Users\janno\Documents\Visual Studio 2008\Projects\cpuAndramMeter\cpuAndramMeter\obj\Debug\cpuAndramMeter.pdb
